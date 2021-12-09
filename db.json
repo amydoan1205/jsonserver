@@ -2,7 +2,7 @@
 {
   "posts": [
     {
-      "id": "a",
+      "id": 1,
       "title": "Post 1",
       "date": "28/09/2021 09:30:10"
     },
@@ -17,7 +17,7 @@
       "date": "1633338058"
     },
     {
-      "id": -4,
+      "id": 4,
       "title": "139 Pasteur, Ward 6, District 3, HCMC (DiCentral Vietnam)",
       "date": ""
     }
